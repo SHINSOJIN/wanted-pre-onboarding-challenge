@@ -20,4 +20,12 @@ const products = [
 ```
 
 ## 과제 제출 방법
+- 저장소의 Issues 탭 클릭하고, New issue 버튼을 클릭합니다.
+- 'Get started' 버튼을 클릭합니다.
+  <img width="1107" alt="이슈템플릿" src="https://user-images.githubusercontent.com/20774764/200322519-7b1dc795-fa3f-4829-8cab-60d96331b193.png">
+
+- 템플릿으로 등록해 놓은 사전 과제의 답변을 작성합니다.
+    - 제목 : `제출일`과 `이름` 수정 </br>
+      <img width="1061" alt="안드로이드_사전과제_제출" src="https://user-images.githubusercontent.com/20774764/200324000-a496ba92-55a0-4655-a8c0-4df7a828c253.png">
+- 'Submit new issue' 버튼을 클릭해 사전 과제를 제출합니다.
 
